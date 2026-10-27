@@ -99,6 +99,6 @@ function startServer() {
     });
 
     server.listen(options.port, options.host, () => {
-        console.log(`Сервер запущено на http://${options.host}:${options.port}`);
+        console.log(`🚀Сервер запущено на http://${options.host}:${options.port}`);
     });
 }
