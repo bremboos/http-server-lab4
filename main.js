@@ -1,3 +1,4 @@
+// Лабораторна робота 4 - Варіант 1
 import http from 'http';
 import fs from 'fs';
 import { URL } from 'url';
